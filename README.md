@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=EversonSilva9799.visitor-badge)](https://github.com/EversonSilva9799)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EversonSilva9799)](https://github.com/EversonSilva9799)
 

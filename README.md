@@ -30,4 +30,4 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 
-⭐️ From [Ilda Neta](https://github.com/ildaneta)
+⭐️ From [Everson Silva](https://github.com/EversonSilva9799)

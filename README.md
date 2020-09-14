@@ -24,6 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
+
 <br/>
 
 ## Knowledge
@@ -32,6 +33,15 @@
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/) 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/ildaneta/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/EversonSilva9799/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)

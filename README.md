@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eversonsilva9799@gmail.com)](mailto:eversonsilva9799@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/everson_silva/)](https://t.me/everson_silva/)
 
-**Glad to see you here!** I'm a web developer that is always looking for the best for my career. You can **find me on my social networks.**
+**Glad to see you here!** I'm a web developer that is always looking for the best for my career, contributing and creating open source projects to the community. You can **find me on my social networks.**
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=EversonSilva9799&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/EversonSilva9799)
 

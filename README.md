@@ -9,11 +9,24 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=EversonSilva9799&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/EversonSilva9799)
 
-<p aligh="middle">
- <img height="150px" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eversonsilva9799&hide=css,php,html&layout=compact" alt="Github Stats" /> 
-</p>
+
+## Languages and Technologies I use daily
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
 
 <br/>
+
+## Knowledge
 
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/) 
@@ -21,4 +34,4 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
-[![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/ildaneta/)

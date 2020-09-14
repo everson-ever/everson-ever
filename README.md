@@ -20,7 +20,6 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/EversonSilva9799/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/EversonSilva9799/)](https://github.com/EversonSilva9799/)

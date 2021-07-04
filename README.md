@@ -7,6 +7,12 @@
 
 **Glad to see you here!** I'm a web developer that is always looking for the best for my career, contributing and creating open source projects to the community. You can **find me on my social networks.**
 
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everson-ever&show_icons=true&theme=radical&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&&locale=pt-br&border_radius=20&hide_border=true" align="center">
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everson-ever&layout=compact&bg_color=1C1C1C&border_color=D00FF7F&icon_color=A020F0&text_color=00FF7F&title_color=A020F0&locale=pt-br&border_radius=20&hide_border=true" align="center">
+</div>
+
 
 <br/>
 
@@ -28,5 +34,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/EversonSilva9799/)](https://github.com/everson-ever/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/EversonSilva9799/)](https://github.com/everson-ever/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/EversonSilva9799/)](https://github.com/everson-ever/)
+
+![](https://github.com/everson-ever/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ⭐️ [Everson Silva](https://github.com/everson-ever)

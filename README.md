@@ -29,4 +29,4 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/EversonSilva9799/)](https://github.com/everson-ever/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/EversonSilva9799/)](https://github.com/everson-ever/)
 
-⭐️ From [Everson Silva](https://github.com/everson-ever)
+⭐️ [Everson Silva](https://github.com/everson-ever)
